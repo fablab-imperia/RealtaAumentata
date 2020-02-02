@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IMG_20191215_184726432_10" size="1.000000 0.759870" />
+    <ImageTarget name="IMG_20191215_181553574_HDR_9" size="1.000000 0.763524" />
+    <ImageTarget name="IMG_20191215_181049870_HDR_7" size="1.000000 0.763317" />
+    <ImageTarget name="IMG_20191215_180547882_HDR_6" size="1.000000 0.767333" />
+    <ImageTarget name="IMG_20191215_175831821_HDR_4" size="1.000000 0.756216" />
+    <ImageTarget name="IMG_20191215_175010305_HDR_2" size="1.000000 0.762527" />
+    <ImageTarget name="P91215-174417" size="1.000000 0.762357" />
+    <ImageTarget name="IMG_20191208_185815_8" size="1.000000 0.747500" />
+    <ImageTarget name="20191208_183500" size="1.000000 0.735457" />
+  </Tracking>
+</QCARConfig>
